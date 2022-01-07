@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 도이에 대하여
 permalink: /about/
 ---
 
