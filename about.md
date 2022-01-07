@@ -8,4 +8,4 @@ permalink: /about/
 
 ### 연락처
 
-[email@domain.com](mailto:doylldo2@gmail.com)
+[doylldo2@gmail.com](mailto:doylldo2@gmail.com)
